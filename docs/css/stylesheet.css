@@ -1,0 +1,28 @@
+button{
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 8px 12px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+button.questionee{
+  font-size: 32px;
+}
+h1{
+  font-size: 48px;
+  font-weight: bold;
+  text-align: center;
+}
+
+button.released {
+  background-color: #4CAF50;
+}
+
+button.pressed {
+  background-color: red;
+}
